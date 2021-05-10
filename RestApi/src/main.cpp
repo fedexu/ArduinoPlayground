@@ -9,7 +9,6 @@
 const char *ssid = "Vodafone-FedeXu"; //  your network SSID (name)
 const char *password = "NeverMind1";  // your network password
 
-// WebServer server(80);
 APIServer &apiServer = APIServer::getInstance();
 
 void connectToWifi();

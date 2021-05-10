@@ -11,8 +11,7 @@ class APIServer
 public:
     static APIServer &getInstance()
     {
-        static APIServer instance; // Guaranteed to be destroyed.
-                                   // Instantiated on first use.
+        static APIServer instance; // Guaranteed to be destroyed. Instantiated on first use.
         return instance;
     }
 
