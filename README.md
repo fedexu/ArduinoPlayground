@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/fedexu/ArduinoPlayground/blob/master/LICENSE)
 
 # ArduinoPlayground
-Simple repository containing all Arduino Example to learn the platform.
+Repository containing all Arduino POC to learn the platform. Are present various project oriented to IoT devices to make this technology accessible by everyone.
 
 # Projects
 
