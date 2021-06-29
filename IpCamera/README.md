@@ -20,7 +20,7 @@ WARNING: LED on the board doesn't have a current limiting resistor, so it gets v
 
 # Components
 
-USB to UART converter https://s.click.aliexpress.com/e/_dW0jGff
+USB to UART converter: https://s.click.aliexpress.com/e/_dW0jGff
 
 ESP32 Camera: https://s.click.aliexpress.com/e/_d8XnZxj
 
@@ -31,3 +31,16 @@ DC-DC Converter: https://s.click.aliexpress.com/e/_dWvPhXW
 
 Almost all needed on Amazon:
 ESP32 Camera + UART converter + wires: https://amzn.to/3s4ZjXQ
+
+# Solar Charge module (optional) 
+
+Battery: https://it.aliexpress.com/item/1000004372907.html?spm=a2g0s.9042311.0.0.45954c4djTtbfI
+
+Solar Panel: https://it.aliexpress.com/item/1005001525456183.html?spm=a2g0s.9042311.0.0.45954c4djTtbfI
+
+Charger module: https://it.aliexpress.com/item/1005001621934354.html?spm=a2g0s.9042311.0.0.45954c4djTtbfI
+
+Battery holder/controller: https://it.aliexpress.com/item/1005001621882169.html?spm=a2g0s.9042311.0.0.45954c4djTtbfI
+
+
+
